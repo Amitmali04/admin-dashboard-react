@@ -9,7 +9,7 @@ const Analytics = () => {
       <CustomHeaderV1 />
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-10 h-6">
         <div className="">
-          {/* <CarouselTransition /> */}
+          <CarouselTransition />
         </div>
         <div className="border p-10 "></div>
         <div className="border p-10 "> </div>
